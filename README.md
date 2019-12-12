@@ -1,2 +1,2 @@
 # opre
-opre zh-k megoldással, gyakorlások
+opre zh-k megoldással, gyakorlások, segédanyagok
