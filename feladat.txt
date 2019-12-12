@@ -1,0 +1,16 @@
+Operációs rendszerek ZH
+2018 december 6. 16:00
+
+A programnak az os.inf.elte.hu gépen kell futni. Egy vetélkedőben a játékvezető szülő két játékossal 2 gyerek játszik. A játékvezető mindig megvárja, a játék befejezését.
+1. rész
+
+A játékvezető színpadra hívja a játékosokat létrehozza a gyerekeket és megvárja, amíg felérnek és a játékra készségüket jelzik jelzést küldenek szülőnek. Mindketten bemutatkoznak csövön át küldik a nevüket. Nevet véletlenül választanak öt tetszőleges megadott névből. A játékvezető hangosan megismétel kiírja a képernyőre a kapott neveket!
+2. rész
+
+A játékvezető készített 5 kérdést, hozzá megadta az öt jó választ 1-5 közti érték, majd feltesz ezek közül véletlenszám egy kérdést csövön, amire egy számot, a helyes választ várja. A kérdést mindkét játékos megkapja. A játékosok külön-külön válaszolnak csövönvéletlenszám. Mindkét játékos képernyőre írja a választ. A játékvezető szülő kiolvassa ezeket, majd szintén képernyőre írja. Jó válasz esetén mikulást, rossz válasz esetén virgácsot kap a játékos.
+3. rész
+
+A második fordulóban a kérdésre csak az első játékos válaszolhat, amiről a második játékos nem tud. A második játékos fogad rá látatlanban, hogy jó vagy rossz volt az első játékos válaszaüzenetsor. A játékvezető kiolvassa és kiírja a választ és a fogadást. A jutalom ismét mikulás vagy krampusz, és szülő kihirdetikiírja az aktuális állást.
+4. rész
+
+A játékvezető végig vezeti a játékot maximum 5 kérdésig a játékot, aminek végén nemcsak képernyőre írja a játék végeredményét, hanem jegyzőkönyvezi fájlba is kiírja is azt. 
