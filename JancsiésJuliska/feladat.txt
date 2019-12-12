@@ -1,0 +1,16 @@
+Operációs rendszerek ZH
+2018 december 6. 18:30
+
+A programnak az os.inf.elte.hu gépen kell futni. Jancsi és Juliska gyerekek bekopognak a vasorrú bábáhozszülő, aki csapdába ejti őket. Ügyességüknek köszönhetően mindketten megszabadulnak a végén. A vasorrú mindkét foglya megszabadulását a gyerek folyamatok végét kénytelen végig nézni.
+1. rész
+
+A két gyerek kopogjon be a boszorkányhoz jelzés, aki erre kaláccsal vagy süteménnyel véletlenszám kínálja őket csővezeték. Az éhes gyerekek hálásan elfogadják kiírják a képernyőre a finomság nevét.
+2. rész
+
+Miután bekerülnek a házba, fogollyá válnak. Juliskának első gyerek folyton dolgoznia kell másodpercenként küldenie kell jelzéseket a banyának 3 alkalommal, aki minden jelzésre további utasítást ír csővezetéken, amit képernyőre is ír. Jancsinak viszont ennie kell, hogy meghízzon. A 3. nap végén 3 másodperc Jancsinak ki kell dugnia az ujját, hogy elég kövér-e már csővezetékbe véletlen módon kerüljön -1,0 vagy 1. A vasorrú konstatálja az eredményt és kiírja a képernyőre.
+3. rész
+
+Jancsi tudja mi vár rá, ezért egy óvatlan pillanatban üzen Juliskának üzenetsoron át, hogy zárja be a boszorkányt a fáskamrába. Juliska olvassa az üzenetet és meg is teszi kiírja a képernyőre.
+4. rész
+
+Nagy sokára sikerül kiszabadítani Jancsit a ketrecből üzenetsoron át Jancsi üzen: Keresd meg a kulcsot; Juliska: Nem találom; Jancsi: Keress egy pajszert!; Juliska: Megvan! Az üzeneteket mindketten kiírják a képernyőre. 
